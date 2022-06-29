@@ -1,4 +1,4 @@
-#Tallinna (Harku kandi) ilma keskmised meteostat andmete järgi
+# Tallinna (Harku kandi) ilma keskmised meteostat andmete järgi
 ![8p](8.png)
 ![14p](14.png)
 ![30p](30.png)
